@@ -11,4 +11,4 @@ Here's the latest versions of the texture packs you can install to improve your 
 
 # **You are NOT allowed to reuse my assets without asking or credit!**
 **You are allowed to peek inside the files and get some inspiration!**
-**Contact me on Discord if you want to directly copy files.**
+### **Contact me on Discord if you want to directly copy files.**
