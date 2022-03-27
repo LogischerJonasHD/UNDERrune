@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "blocks/vents",
+		"side": "blocks/vents_side",
+		"bottom": "blocks/vents_side"
+    }
+}
