@@ -1,35 +1,37 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blockbench/rouxls_pirate",
-		"particle": "blockbench/rouxls_pirate"
+		"0": "blockbench/queen_painting_fire",
+		"particle": "blockbench/queen_painting_fire"
 	},
 	"elements": [
 		{
-			"from": [-3.75, 0, 8],
-			"to": [19.75, 32, 8],
+			"from": [-10, 0, -16],
+			"to": [10, 30, -16],
 			"faces": {
-				"north": {"uv": [0, 0, 11.75, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 10, 15], "texture": "#0"}
 			}
 		}
 	],
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -180, 0],
-			"translation": [0, 3.75, 0.75],
+			"translation": [-4, 2.75, -11],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -180, 0],
-			"translation": [0, 3.75, 0.75],
+			"translation": [4.25, 2.75, -11],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -180, 0],
+			"translation": [-2.5, -1.5, -12],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -180, 0],
+			"translation": [5.5, -1.5, -12],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
@@ -38,14 +40,14 @@
 		},
 		"gui": {
 			"rotation": [25, -155, 0],
-			"translation": [0, -3.5, 0],
+			"translation": [-8.25, 0.75, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"translation": [0, 14.25, 0]
+			"translation": [8.25, 14.25, 24]
 		},
 		"fixed": {
-			"translation": [0, 40, 0.75],
+			"translation": [8, 10.75, 40.75],
 			"scale": [3, 3, 3]
 		}
 	}

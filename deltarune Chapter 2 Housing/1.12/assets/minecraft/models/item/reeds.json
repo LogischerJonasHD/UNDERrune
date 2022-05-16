@@ -1,27 +1,27 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blockbench/rouxls_pirate",
-		"particle": "blockbench/rouxls_pirate"
+		"0": "blockbench/rouxls_sword",
+		"particle": "blockbench/rouxls_sword"
 	},
 	"elements": [
 		{
-			"from": [-3.75, 0, 8],
-			"to": [19.75, 32, 8],
+			"from": [-8, 0, 8],
+			"to": [24, 32, 8],
 			"faces": {
-				"north": {"uv": [0, 0, 11.75, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 8.5, 8], "texture": "#0"}
 			}
 		}
 	],
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -180, 0],
-			"translation": [0, 3.75, 0.75],
+			"translation": [-4.5, 3.25, 0.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -180, 0],
-			"translation": [0, 3.75, 0.75],
+			"translation": [4, 3.25, 0.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
@@ -38,14 +38,14 @@
 		},
 		"gui": {
 			"rotation": [25, -155, 0],
-			"translation": [0, -3.5, 0],
+			"translation": [-0.25, -4.25, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"translation": [0, 14.25, 0]
+			"translation": [7.75, 13.75, 0]
 		},
 		"fixed": {
-			"translation": [0, 40, 0.75],
+			"translation": [23.25, 40, -15.25],
 			"scale": [3, 3, 3]
 		}
 	}
